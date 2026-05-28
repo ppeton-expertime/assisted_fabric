@@ -13,7 +13,7 @@
 
 # Welcome to your new notebook
 # Type here in the cell editor to add code!
-print("made in Fabric")
+print("made in Fabric but edited in VS Code")
 
 # METADATA ********************
 
